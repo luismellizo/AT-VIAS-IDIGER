@@ -1,0 +1,12 @@
+txt 
+Install:
+pip install selenium
+pip install pyautogui
+pip install openpyxl
+pip install fpdf
+pip install img2pdf
+pip install reportlab
+pip install pywinauto
+pip install pdfkit
+pip install tkinter
+pip install subprocess
